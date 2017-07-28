@@ -23,7 +23,7 @@ font-size:1.2em !important
 display: flex;
 justify-content:center;
 color:#efefef;
-margin:6em
+margin:3em
 }
 .yellow_bkg {
 background-color:#ebbc0f !important
@@ -60,8 +60,7 @@ justify-content:center
 .didyouknow_bkg {
 background-color:#efefef !important;
 display:flex;
-justify-content:space-around;
-padding:15em 0 
+justify-content:space-around
 }
 .didyouknow_textwidth {
 width:20vw
@@ -75,10 +74,10 @@ display:flex;
 flex-flow: row wrap;
 justify-content: space-around;
 align-items: center;
-padding:2em 2em  
+padding:7em 2em  
 }
 .footer_contactus {
-font-size:3em;
+font-size:4em;
 color:#efefef;
 text-align:center
 }
@@ -98,8 +97,8 @@ font-size:2em;
 border-radius:5px
 }
 .footer_contact_inputbtn {
-margin-top:2em;
-padding:0.2vw 0.8evw;
+margin:2em 0;
+padding:1vw;
 border-radius:2px;
 font-family:arial;
 font-size:1.5vw;
@@ -116,6 +115,4 @@ width:100vw
 }
 .menu_container_fullscr {
 width:100vw 
-}
-.video_section {
 }

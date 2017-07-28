@@ -99,7 +99,7 @@ border-radius:5px
 }
 .footer_contact_inputbtn {
 margin-top:2em;
-padding:0.2vw 0.8evw;
+padding:0.2em 0.8em;
 border-radius:2px;
 font-family:arial;
 font-size:1.5vw;
@@ -116,6 +116,4 @@ width:100vw
 }
 .menu_container_fullscr {
 width:100vw 
-}
-.video_section {
 }

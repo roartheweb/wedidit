@@ -78,7 +78,7 @@ align-items: center;
 padding:2em 2em  
 }
 .footer_contactus {
-font-size:3em;
+font-size:4em;
 color:#efefef;
 text-align:center
 }
@@ -98,8 +98,8 @@ font-size:2em;
 border-radius:5px
 }
 .footer_contact_inputbtn {
-margin-top:2em;
-padding:0.2vw 0.8evw;
+margin:2em 0;
+padding:1vw;
 border-radius:2px;
 font-family:arial;
 font-size:1.5vw;
@@ -116,6 +116,4 @@ width:100vw
 }
 .menu_container_fullscr {
 width:100vw 
-}
-.video_section {
 }
