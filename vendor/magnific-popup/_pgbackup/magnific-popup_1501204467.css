@@ -1,0 +1,10 @@
+.portfolio_img_caption {
+font-size:2em;
+position:absolute;
+top:12vw;
+right:1em;
+color:#efefef     
+}.video_descr_bkg {
+background-color:#605da6;
+display:flex  
+}

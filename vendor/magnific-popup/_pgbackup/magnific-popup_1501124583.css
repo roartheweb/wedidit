@@ -1,0 +1,19 @@
+.portfolio_img_caption {
+font-size:2em;
+position:absolute;
+top:12vw;
+right:1em;
+color:#efefef     
+}
+.video_descr_bkg {
+background-color:#9fbccf;
+display:flex  
+}
+.video_descr_title {
+font-size:2em;
+height:2em  
+}
+.video_descr_descr {
+font-size:1em;
+height:1em  
+}
