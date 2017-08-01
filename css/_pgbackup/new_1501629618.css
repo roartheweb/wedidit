@@ -58,10 +58,10 @@ align-items:center;
 justify-content:center
 }
 .didyouknow_bkg {
-background-color:#ebbc0f !important;
+background-color:white !important;
 display:flex;
 justify-content:space-around;
-padding:15em 0 0 0 
+padding:15em 0 
 }
 .didyouknow_textwidth {
 width:20vw
@@ -74,12 +74,11 @@ background-color:#605DA6;
 display:flex;
 flex-flow: row wrap;
 justify-content: space-around;
-align-items: top;
-padding:4em 2em;
-box-shadow shadow:0px -7px 25px -10px rgba(0,0,0,0.75);350   
+align-items: center;
+padding:2em 2em  
 }
 .footer_contactus {
-font-size:2em;
+font-size:3em;
 color:#efefef;
 text-align:center
 }
@@ -96,13 +95,11 @@ color:  #efefef
 .footer_contact_input {
 padding:0.5em;
 font-size:2em;
-border-radius:5px;
-background-color:#605d95 !important;
-border-bottom:3px solid #efefef   
+border-radius:5px
 }
 .footer_contact_inputbtn {
 margin-top:2em;
-padding:0.2em 2em;
+padding:0.2vw 0.8evw;
 border-radius:2px;
 font-family:arial;
 font-size:1.5vw;
@@ -124,8 +121,4 @@ width:100vw
 }
 .violet_bkg {
 background-color:#605DA6 !important 
-}
-.input::placeholder {
-color:  #efefef;
-text-align: center
 }
